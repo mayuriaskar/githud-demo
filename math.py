@@ -1,7 +1,7 @@
 
  # inital commet
  def add (x,y) :
-       pass
+       rturn x+y            #on githud
        this is for subtract
  def  subtract (x,y) :
        pass
